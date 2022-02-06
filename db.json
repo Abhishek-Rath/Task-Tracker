@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study Japanese",
+      "day": "Jan 29th at 7:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Watch anime",
+      "day": "Jan 29th at 8:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Testing id",
+      "day": "2022-02-12",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
